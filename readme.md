@@ -10,38 +10,38 @@ Thank you for visiting my repository, and please feel free to explore the projec
 
 # Structure
 
-1. Google IT Automation
-[Coursera Link](https://www.coursera.org/professional-certificates/google-it-automation)
-[My Certification](#)
+1. Google IT Automation:  
+[Coursera Link](https://www.coursera.org/professional-certificates/google-it-automation)  
+[My Certification](#)  
 [Repository](#)
-
-2. Google Data Analytics
-[Coursera Link](https://www.coursera.org/google-certificates/data-analytics-certificate)
-[My Certification](#)
-[Repository](#)
-
-3. Math For Machine Learning Specialization - Imperial College London
-[Coursera Link](https://www.coursera.org/specializations/mathematics-machine-learning)
-[My Certification](#)
-[Repository](#)
-
-4. Machine Learning Specialization - Deeplearning.ai
-[Coursera Link](https://www.coursera.org/specializations/machine-learning-introduction)
-[My Certification](#)
-[Repository](#)
+  
+2. Google Data Analytics:  
+[Coursera Link](https://www.coursera.org/google-certificates/data-analytics-certificate)  
+[My Certification](#)  
+[Repository](#)  
+  
+3. Math For Machine Learning Specialization - Imperial College London  
+[Coursera Link](https://www.coursera.org/specializations/mathematics-machine-learning)  
+[My Certification](#)  
+[Repository](#)  
+  
+4. Machine Learning Specialization - Deeplearning.ai  
+[Coursera Link](https://www.coursera.org/specializations/machine-learning-introduction)  
+[My Certification](#)  
+[Repository](#)  
 
 5. TensorFlow Developer Professional Certificate
- - Deeplearning.ai
-[Coursera Link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-[My Certification](#)
-[Repository](#)
+ - Deeplearning.ai  
+[Coursera Link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)  
+[My Certification](#)  
+[Repository](#)  
 
-6. Structuring ML Project - Deeplearning.ai
-[Coursera Link](https://www.coursera.org/learn/machine-learning-projects)
-[My Certification](#)
-[Repository](#)
+6. Structuring ML Project - Deeplearning.ai  
+[Coursera Link](https://www.coursera.org/learn/machine-learning-projects)  
+[My Certification](#)  
+[Repository](#)  
 
-7. TensorFlow: Data and Deployment Specialization
-[Coursera Link](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-[My Certification](#)
-[Repository](#)
+7. TensorFlow: Data and Deployment Specialization  
+[Coursera Link](https://www.coursera.org/specializations/tensorflow-data-and-deployment)  
+[My Certification](#)  
+[Repository](#)  
