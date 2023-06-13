@@ -8,7 +8,7 @@ This repository serves as a platform for me to share my journey and showcase the
 
 Thank you for visiting my repository, and please feel free to explore the projects, leave feedback, and connect with me. Let's continue to learn and grow together in this exciting field!
 
-# Structure
+# The Certification
 
 1. Google IT Automation:  
 [Coursera Link](https://www.coursera.org/professional-certificates/google-it-automation)  
@@ -45,3 +45,8 @@ Thank you for visiting my repository, and please feel free to explore the projec
 [Coursera Link](https://www.coursera.org/specializations/tensorflow-data-and-deployment)  
 [My Certification](#)  
 [Repository](#)  
+  
+
+# Update:
+
+I developed a machine learning model for our Capstone Project. The model serves as a recommendation app designed to suggest suitable clothing items based on a single input. For instance, if you provide an image of a t-shirt, the model utilizes a database of "expert recommendations" obtained by crawling various online "clothing packages." It then identifies a compatible pair of pants that would complement the given t-shirt. [Fashionism repository](https://github.com/Fashionism-Bangkit-Capstone/Fashionism-Machine-Learning)
