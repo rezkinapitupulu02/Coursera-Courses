@@ -1,3 +1,5 @@
+![Bangkit 2023 Flyer](Images/Bangkit.webp)
+
 # About
 
 Welcome to my GitHub repository! My name is Rezki Ciarchi Frendi Napitupulu, and I'm a final year industrial engineering student at ITB. I enthusiastically joined BANGKIT 2023 as part of the machine learning cohort to expand my knowledge of the current industry trend: AI.
