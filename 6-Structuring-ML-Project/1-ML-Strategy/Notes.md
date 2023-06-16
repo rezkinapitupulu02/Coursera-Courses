@@ -15,12 +15,18 @@
 
 # Orthogonalization
 
-- Orthogonalization is a process in machine learning where you identify specific knobs to tune in order to achieve a desired effect.
-- The concept of orthogonalization is illustrated using examples of TV knobs and car controls.
-- In machine learning, there are four criteria to consider: performance on the training set, performance on the dev set, performance on the test set, and real-world performance.
-- Each criterion may require tuning specific knobs or sets of knobs.
-- Examples of knobs to tune include network size, optimization algorithms, regularization techniques, and adjusting the size of the dev set.
-- Orthogonal controls are preferable as they affect a single aspect without impacting other variables.
-- Early stopping is less orthogonalized because it affects both training set fit and dev set performance simultaneously.
-- The goal is to diagnose the bottleneck in system performance and identify the specific knobs to improve it.
-- Detailed exploration of this process will be covered in the upcoming weeks.
+- The script discusses the challenge of building machine learning systems and the numerous options available for experimentation and modification.
+- Orthogonalization is introduced as a process of identifying specific parameters to tune in order to achieve a desired effect.
+- The analogy of an old school television with multiple knobs is used to illustrate the concept of orthogonalization.
+- The importance of designing knobs with interpretable functions is emphasized, where each knob has a distinct impact on a specific aspect.
+- The script extends the analogy to driving a car, highlighting the need for separate controls for steering and speed to make driving more interpretable.
+- Orthogonal controls that align with the desired dimensions of control make it easier to tune the system.
+- The script relates orthogonalization to machine learning and identifies four main aspects that need to be addressed: performance on the training set, performance on the development set, performance on the test set, and real-world performance.
+- Each aspect requires specific knobs or sets of knobs to be adjusted, such as using a bigger network or a better optimization algorithm for training set performance.
+- Different sets of knobs are introduced for each aspect, such as regularization for improving performance on the development set or increasing the size of the development set to address overfitting.
+- The importance of aligning the knobs with the specific aspects to be controlled is stressed.
+- The script mentions the possibility of changing the dev set or the cost function if the system's performance on the test set does not align with real-world requirements.
+- The concept of early stopping is discussed as a knob that affects both training set fit and development set performance, making it less orthogonalized.
+- The script highlights the benefits of orthogonalized controls in making the tuning process easier.
+- The importance of diagnosing the bottleneck in system performance and identifying the specific knobs to address the issue is emphasized.
+- The script mentions that further details and examples of specific knobs will be discussed in subsequent sections.
